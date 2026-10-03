@@ -24,7 +24,7 @@ window.addEventListener('scroll',()=>{
 const lightbox=document.querySelector('#lightbox');
 const lightboxImage=document.querySelector('#lightboxImage');
 const lightboxClose=document.querySelector('#lightboxClose');
-const zoomTargets=document.querySelectorAll('.cat img,.gallery figure img');
+const zoomTargets=document.querySelectorAll('.cat img,.gallery figure img,.showroom-gallery img');
 function openLightbox(img){
   lightboxImage.src=img.currentSrc||img.src;
   lightboxImage.alt=img.alt||'Shivara look';

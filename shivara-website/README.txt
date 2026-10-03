@@ -8,5 +8,5 @@ Before publishing:
 3. Replace/add any final showroom photos.
 4. Verify all clothing image usage rights.
 
-Contact: +91 8839236316
+Contact: +91 78802 62380
 Instagram: @shivara.womenswear
